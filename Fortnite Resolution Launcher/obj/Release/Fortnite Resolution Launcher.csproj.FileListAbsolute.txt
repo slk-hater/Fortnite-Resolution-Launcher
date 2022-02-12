@@ -1,0 +1,9 @@
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\bin\Release\Fortnite Resolution Launcher.exe.config
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\bin\Release\Fortnite Resolution Launcher.exe
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\bin\Release\Fortnite Resolution Launcher.pdb
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\obj\Release\Fortnite_Resolution_Launcher.Launcher.resources
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\obj\Release\Fortnite_Resolution_Launcher.Properties.Resources.resources
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\obj\Release\Fortnite Resolution Launcher.csproj.GenerateResource.cache
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\obj\Release\Fortnite Resolution Launcher.csproj.CoreCompileInputs.cache
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\obj\Release\Fortnite Resolution Launcher.exe
+C:\Users\quatr\Desktop\Coding\C#\Fortnite Resolution Launcher\obj\Release\Fortnite Resolution Launcher.pdb
